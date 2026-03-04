@@ -1,6 +1,6 @@
-# 🗳️ E-Voting System — Ethereum + Vue.js
+# 🗳️ ChainBallot — Decentralized E-Voting on Ethereum
 
-A decentralized electronic voting application built on the Ethereum blockchain. Voters authenticate using their **Turkish National ID (TC Kimlik)**, cast a single vote for a candidate, and can immediately view real-time vote statistics. An admin panel allows authorized users to add or remove candidates before/during the election.
+A tamper-proof, decentralized voting DApp built on Ethereum. Voters authenticate with their **Turkish National ID (TC Kimlik)**, cast a single on-chain vote for a candidate, and view live election results. An admin panel lets authorized users manage candidates before and during the election.
 
 ---
 
@@ -113,10 +113,19 @@ See the [Vue CLI Configuration Reference](https://cli.vuejs.org/config/) for adv
 
 ---
 
-## 🏷️ Suggested GitHub Topics
+## 🏷️ GitHub Repository Setup
 
-Add these topics to the repository's **About** section on GitHub:
+### Suggested Name
+```
+ChainBallot
+```
 
+### Suggested About Description *(≤ 350 chars — paste this into the repo's About field)*
+```
+Tamper-proof e-voting DApp on Ethereum. Voters authenticate with Turkish National ID (TC Kimlik), cast on-chain votes via MetaMask, and view live results. Built with Solidity, Vue.js 2, Truffle, Ganache & Drizzle.
+```
+
+### Suggested Topics *(paste into the repo's Topics field)*
 ```
 blockchain ethereum solidity smart-contracts vue vuejs vue2
 web3 dapp truffle ganache metamask drizzle e-voting buefy
