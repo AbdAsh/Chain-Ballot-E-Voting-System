@@ -110,23 +110,3 @@ npm run lint
 ```
 
 See the [Vue CLI Configuration Reference](https://cli.vuejs.org/config/) for advanced options.
-
----
-
-## 🏷️ GitHub Repository Setup
-
-### Suggested Name
-```
-ChainBallot
-```
-
-### Suggested About Description *(≤ 350 chars — paste this into the repo's About field)*
-```
-Tamper-proof e-voting DApp on Ethereum. Voters authenticate with Turkish National ID (TC Kimlik), cast on-chain votes via MetaMask, and view live results. Built with Solidity, Vue.js 2, Truffle, Ganache & Drizzle.
-```
-
-### Suggested Topics *(paste into the repo's Topics field)*
-```
-blockchain ethereum solidity smart-contracts vue vuejs vue2
-web3 dapp truffle ganache metamask drizzle e-voting buefy
-```
