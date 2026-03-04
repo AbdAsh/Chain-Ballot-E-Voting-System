@@ -1,4 +1,4 @@
-# 🗳️ ChainBallot — Decentralized E-Voting on Ethereum
+# 🗳️ ChainBallot — E-Voting on Ethereum (Grad Proj)
 
 A tamper-proof, decentralized voting DApp built on Ethereum. Voters authenticate with their **Turkish National ID (TC Kimlik)**, cast a single on-chain vote for a candidate, and view live election results. An admin panel lets authorized users manage candidates before and during the election.
 
